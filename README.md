@@ -1,3 +1,29 @@
+<!-- repository-presentation: reference-fork -->
+<p align="center"><img src="assets/presentation/banner.png" alt="LLM Providers: reference fork, with upstream credit preserved" width="900"></p>
+
+# LLM Providers / reference fork
+
+This repository is a fork of **[foisalislambd/all-llm-provider-list](https://github.com/foisalislambd/all-llm-provider-list)**. The original project's
+authors, licensing and contribution rules still apply. This presentation does
+not claim the upstream work as an original project.
+
+- Start with the [upstream repository](https://github.com/foisalislambd/all-llm-provider-list) for its current documentation.
+- Review this fork's history before assuming it is identical to the latest upstream branch.
+- Check licenses and current service behavior before using code, providers or resources.
+
+![Upstream source, reference checkout, and checks before reuse](assets/presentation/overview.png)
+
+*Provenance illustration, not an execution trace. [Editable artwork](scripts/artwork/README.md).*
+
+## Existing project documentation
+
+The documentation below is preserved from this fork's previous public revision.
+Counts, service claims, badges and benchmark statements in that material are
+not independently certified by this presentation pass. No upstream release,
+security or availability guarantee is being added.
+
+---
+
 # All LLM Providers — API Endpoints, Models & Integration Guide
 
 A curated, developer-friendly directory of **110+ global LLM providers** — official frontier APIs, inference platforms, sovereign clouds, gateways, aggregators, and local runtimes.
